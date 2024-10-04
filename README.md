@@ -18,7 +18,6 @@ I am a backend developer with a passion for creating efficient and scalable solu
   <a href="https://www.linkedin.com/in/kisharabuddika98/" rel="nofollow">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" style="max-width: 100%;">
   </a>
-  <p>✉️  Mail me @ hathamunagekishara277@gmail.com</p>
 </p>
 
 ---
