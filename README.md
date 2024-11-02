@@ -2,7 +2,7 @@
 
 I am a backend developer with a passion for creating efficient and scalable solutions. My experience spans across various programming languages and tools, allowing me to deliver high-quality software that meets the needs of diverse projects. Whether working on RESTful APIs, managing databases, or implementing cloud-based solutions, I am committed to continuous learning and improvement.
 
-### Graduated from SLIIT | Virtusans(SE) | NODEJS | GCloud | JAVA | SQL | C | RESTful | Back End | Blogger
+### Developer | NODEJS | GCloud | JAVA | SQL | NoSQL | React | RESTful | Back End | Blogger
 ---
 
 ### Languages and Tools:
