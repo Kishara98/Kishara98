@@ -6,7 +6,7 @@ I am a backend developer with a passion for creating efficient and scalable solu
 ---
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,androidstudio,angular,react,grafana,gcp,python,mysql,firebase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,spring,androidstudio,angular,react,grafana,gcp,python,mysql,firebase,git,gitlab)](https://skillicons.dev)
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishara98&show_icons=true&theme=radical)
