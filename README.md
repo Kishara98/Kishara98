@@ -2,11 +2,11 @@
 
 I am a backend developer with a passion for creating efficient and scalable solutions. My experience spans across various programming languages and tools, allowing me to deliver high-quality software that meets the needs of diverse projects. Whether working on RESTful APIs, managing databases, or implementing cloud-based solutions, I am committed to continuous learning and improvement.
 
-### Developer | NODEJS | GCloud | JAVA | SQL | NoSQL | React | RESTful | Back End | Blogger
+### Developer | NODEJS | GCloud | JAVA | SpringBoot | SQL | NoSQL | React | RESTful | Docker | Back End | Blogger
 ---
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,spring,androidstudio,angular,react,grafana,gcp,python,mysql,firebase,git,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,spring,androidstudio,angular,react,grafana,gcp,python,mysql,mongodb,firebase,git,gitlab,docker)](https://skillicons.dev)
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishara98&show_icons=true&theme=radical)
